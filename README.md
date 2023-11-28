@@ -1,11 +1,11 @@
-### Desenvolvedora front-end Narita Godoy 
+# Desenvolvedora front-end Narita Godoy 
 
 Com uma experiência de 7 anos trabalhando na área hospitalar, optei por deixar minha carreira na área da saúde
 para me redescobrir no mundo da Tecnologia e Programação. Sempre gostei muito de estudar e a curiosidade e interesse por novidades é o que motiva! 
 Dedicada e centrada nas tarefas, me considero uma pessoa flexível, disposta a aprender e ensinar. 
 Sinto que como desenvolvedora poderei exercer mais meu lado criativo, intelectual e digamos assim, meu lado nerd de ser :)
 
-# Formações e certificações 💻
+## Formações e certificações 💻
 
 React: desenvolvendo com JavaScript.
 JavaScript para Web: Crie páginas dinâmicas.
