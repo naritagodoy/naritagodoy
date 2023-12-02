@@ -19,7 +19,7 @@ Formação: A partir do zero: HTML e CSS para projetos web.
 
 ### Desenvolvendo minha página no GitHub, aos poucos chegamos lá 😄 
 
-aguarde, loading... ⌛
+loading... ⌛
 
 
           
