@@ -11,8 +11,7 @@ Sinto que como desenvolvedora poderei exercer mais meu lado criativo, intelectua
           
           
 
-loading... ⌛
-Desenvolvendo minha página no GitHub, aos poucos chegamos lá 😄 
+loading... ⌛ 
 
 
 
